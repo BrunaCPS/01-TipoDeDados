@@ -7,12 +7,13 @@ using namespace std;
 int main()
 {
     cout << "Estrutura de Dados - Fatec" << endl;
+    cout << "TESTE DA BRUNA";
 
     cout << "Tipos Numericos\n";
     cout << "===============\n";
     int i = 10;
     short s = 18;
-    long l = 200000;
+
     float f = 1.97F;
     double  d = 4.73;
     cout << "Inteiros\n";
